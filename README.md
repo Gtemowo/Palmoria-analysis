@@ -31,7 +31,7 @@
 - How to visualize insights in PowerBi
 
 ## Preview
-- [Dashboard Sreenshot](page 1.png)
+- [Dashboard Sreenshot](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%201.png)
 - [Dashboard Sreenshot](..)
 - [Dashboard Sreenshot](..)
 - [Dashboard Sreenshot](..)
