@@ -31,14 +31,14 @@
 - How to visualize insights in PowerBi
 
 ## Preview
-- [Dashboard Sreenshot 1](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%201.png)
-- [Dashboard Sreenshot 2](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%202.png)
-- [Dashboard Sreenshot 3](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%203.png)
-- [Dashboard Sreenshot 4](https://github.com/Gtemowo/Palmoria-analysis/blob/main/4.png)
-- [Dashboard Sreenshot 5](https://github.com/Gtemowo/Palmoria-analysis/blob/main/5.png)
-- [Dashboard Sreenshot 6](https://github.com/Gtemowo/Palmoria-analysis/blob/main/6.png)
-- [Dashboard Sreenshot 7](https://github.com/Gtemowo/Palmoria-analysis/blob/main/7.png)
-- [Dashboard Sreenshot 8](https://github.com/Gtemowo/Palmoria-analysis/blob/main/8.png)
+- ![Dashboard Sreenshot 1](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%201.png)
+- ![Dashboard Sreenshot 2](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%202.png)
+- ![Dashboard Sreenshot 3](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%203.png)
+- ![Dashboard Sreenshot 4](https://github.com/Gtemowo/Palmoria-analysis/blob/main/4.png)
+- ![Dashboard Sreenshot 5](https://github.com/Gtemowo/Palmoria-analysis/blob/main/5.png)
+- ![Dashboard Sreenshot 6](https://github.com/Gtemowo/Palmoria-analysis/blob/main/6.png)
+- ![Dashboard Sreenshot 7](https://github.com/Gtemowo/Palmoria-analysis/blob/main/7.png)
+- ![Dashboard Sreenshot 8](https://github.com/Gtemowo/Palmoria-analysis/blob/main/8.png)
 
 > click the images above to see a preview of the final report
 
