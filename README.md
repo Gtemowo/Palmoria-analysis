@@ -32,13 +32,13 @@
 
 ## Preview
 - [Dashboard Sreenshot](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%201.png)
-- [Dashboard Sreenshot](..)
-- [Dashboard Sreenshot](..)
-- [Dashboard Sreenshot](..)
-- [Dashboard Sreenshot](..)
-- [Dashboard Sreenshot](..)
-- [Dashboard Sreenshot](..)
-- [Dashboard Sreenshot](..)
+- [Dashboard Sreenshot](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%202.png)
+- [Dashboard Sreenshot](https://github.com/Gtemowo/Palmoria-analysis/blob/main/page%203.png)
+- [Dashboard Sreenshot](https://github.com/Gtemowo/Palmoria-analysis/blob/main/4.png)
+- [Dashboard Sreenshot](https://github.com/Gtemowo/Palmoria-analysis/blob/main/5.png)
+- [Dashboard Sreenshot](https://github.com/Gtemowo/Palmoria-analysis/blob/main/6.png)
+- [Dashboard Sreenshot](https://github.com/Gtemowo/Palmoria-analysis/blob/main/7.png)
+- [Dashboard Sreenshot](https://github.com/Gtemowo/Palmoria-analysis/blob/main/8.png)
 
 > click the images above to see a preview of the final report
 
