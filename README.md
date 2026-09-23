@@ -1,4 +1,5 @@
-# Palmoria Pay Gap Analysis
+# Palmoria Pay Gap Analysis ![Palmoria Logo](https://github.com/Gtemowo/Palmoria-analysis/blob/main/IMG_20230203_222012_453.jpg)
+
 
 ## Tools used
 - PowerBi (data modeling, DAX, report design)
